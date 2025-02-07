@@ -2,6 +2,8 @@
 
 ![1734761047807](https://github.com/user-attachments/assets/b9b32e57-0fad-4f89-aff0-ce30fd716a78)
 
+![1738837818337](https://github.com/user-attachments/assets/320830a3-b813-49ab-80f1-fd345ad1aac0)
+
 
 Creating a Retrieval-Augmented Generation (RAG) model from scratch involves combining a retrieval component to fetch relevant documents with a generation component to synthesize responses based on those documents. Here's a structured approach to building a RAG system:
 1. Overview of RAG
